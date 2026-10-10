@@ -1,0 +1,82 @@
+[
+  {
+    "q": "How do deep learning models extract multi-vehicle collision details and driver factors from unstructured road accident news reports?",
+    "in_corpus": true
+  },
+  {
+    "q": "Which natural language processing methods are used to parse casualty details such as injuries and fatalities from car crash text summaries?",
+    "in_corpus": true
+  },
+  {
+    "q": "What entity recognition techniques identify specific vehicle types like cars, trucks, and motorcycles in traffic collision narratives?",
+    "in_corpus": true
+  },
+  {
+    "q": "How do spatial geocoding frameworks map informal crash location descriptions and highway names to precise geographic coordinates?",
+    "in_corpus": true
+  },
+  {
+    "q": "Which classification architectures are deployed to categorize car accident severity into minor, severe, and fatal levels from text?",
+    "in_corpus": true
+  },
+  {
+    "q": "How do spatio-temporal clustering models identify redundant news articles describing the same car accident event?",
+    "in_corpus": true
+  },
+  {
+    "q": "What data pre-processing strategies handle linguistic noise and incomplete location details in crowdsourced traffic crash reports?",
+    "in_corpus": true
+  },
+  {
+    "q": "How can extracted car accident coordinates and spatial density maps assist transport authorities in identifying dangerous road blackspots?",
+    "in_corpus": true
+  },
+  {
+    "q": "What role do Large Language Models play in zero-shot extraction of structured event schemas from unstructured car accident news?",
+    "in_corpus": true
+  },
+  {
+    "q": "How do transformer attention mechanisms resolve ambiguous road segment names and intersection references in traffic incident reports?",
+    "in_corpus": true
+  },
+  {
+    "q": "What feature weighting or resampling methods address class imbalance when predicting rare fatal car accidents from text datasets?",
+    "in_corpus": true
+  },
+  {
+    "q": "Which evaluation metrics are standard for measuring the precision and recall of vehicle entity extraction from traffic news narratives?",
+    "in_corpus": true
+  },
+  {
+    "q": "How do multi-modal frameworks integrate textual crash descriptions with vehicle damage photos for accident severity assessment?",
+    "in_corpus": true
+  },
+  {
+    "q": "How are external spatial gazetteers cross-referenced with extracted crash location mentions to enrich geographical metadata?",
+    "in_corpus": true
+  },
+  {
+    "q": "What mechanisms resolve conflicting casualty or vehicle count information across multiple news feeds covering the same traffic collision?",
+    "in_corpus": true
+  },
+  {
+    "q": "What are the exact legal liability percentages and fault assignment rules under Israeli tort law for multi-car pileups on Route 6?",
+    "in_corpus": false
+  },
+  {
+    "q": "What were the specific traffic signal timing logs and phase durations recorded at the main entrance intersection of Ashkelon at 08:00 AM yesterday?",
+    "in_corpus": false
+  },
+  {
+    "q": "What are the internal police radio dispatch codes used by the Israeli Police traffic division when reporting fatal highway rollovers?",
+    "in_corpus": false
+  },
+  {
+    "q": "What specific deductible policy options apply to third-party property damage claims under standard Israeli private car insurance policies?",
+    "in_corpus": false
+  },
+  {
+    "q": "What are the exact factory torque specifications for replacing the front axle control arm on a 2026 Toyota Yaris following a severe curb impact?",
+    "in_corpus": false
+  }
+]
